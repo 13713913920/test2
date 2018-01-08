@@ -14,5 +14,6 @@ public class MyApplication extends Application {
         super.onCreate();
         Utils.init(this);
         Utils.getApp();
+
     }
 }
